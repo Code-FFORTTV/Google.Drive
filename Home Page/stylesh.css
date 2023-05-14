@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+/* =================== Scrollbar =================== */
 ::-webkit-scrollbar {
 	width: 20px;
 }
@@ -21,8 +23,8 @@
 	background-color: var(--scroll-active);
 }
 
-.game-list.cat {
-    padding: 30px;
+.game-list.cat {  
+    padding: 30px; 
 }
 
 .title {
@@ -1587,8 +1589,8 @@ top: 50%;
   }
 
  #iframeWrapper iframe {
-   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
-   rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0,
+   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, 
+   rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 
    0, 0, 0.2) 0px -3px 0px inset;
    border-radius: 5px;
    width: 950px;
@@ -1612,7 +1614,7 @@ top: 50%;
   font-size: 35px;
   cursor: pointer;
   background-color: #5044d5;
-}
+}  
 
 .center {
   gap: 20px;
